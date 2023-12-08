@@ -19,7 +19,7 @@ I'm [Nakul Ahir](https://www.yourwebsite.com/), a passionate developer from Mumb
 ## Fun Moments
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e4713durgbgxrpglwvhruzoq7jmqvwkn3c0wqqd0m2q&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF 1">
+  <img src="[https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e4713durgbgxrpglwvhruzoq7jmqvwkn3c0wqqd0m2q&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://giphy.com/search/nintendo)" alt="Animated GIF 1">
  
   <!-- Add more animated GIFs as needed -->
 </p>
